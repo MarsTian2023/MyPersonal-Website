@@ -1,0 +1,19 @@
+body{
+    background-color: green;
+}
+h2{
+    background-color: grey;
+    margin: 300px;
+    padding: 300px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 100px;
+}
+p{
+    font: 25px
+    ;
+}
